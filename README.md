@@ -13,38 +13,36 @@ This project focuses on understanding and applying digital literacy skills. It i
 ---
 
 ##  Project Structure
-digital-literacy-project/
-│
-├── report/
-│ └── Project_Report.pdf
-│
-├── task-1-presentation/
-│ └── infographic.png
-│
-├── task-2-portfolio/
-│ ├── Github.profile.png
-│ ├── linkedin-1.png
-│ ├── linkedin-2.png
-│ └── stackoverflow-profile.png
-│
-├── task-3-platforms/
-│ ├── google-form1.png
-│ ├── google-form2.png
-│ ├── google-form3.png
-│ ├── hackerrank.result.png
-│ └── response.png
-│
-├── task-4-email-etiquette/
-│ ├── emails.pdf
-│ └── social-media-checklist.pdf
-│
-├── task-5-cybercrime/
-│ ├── casestudy.pdf
-│ └── prevention-checklist.pdf
-│
-└── README.md
+Digital Literacy Project
 
----
+report
+ Project_Report.pdf
+
+task-1-presentation
+ infographic.png
+
+task-2-portfolio
+ Github.profile.png
+ linkedin-1.png
+ linkedin-2.png
+ stackoverflow-profile.png
+
+task-3-platforms
+ google-form1.png
+ google-form2.png
+ google-form3.png
+ hackerrank.result.png
+ response.png
+
+task-4-email-etiquette
+ emails.pdf
+ social-media-checklist.pdf
+
+task-5-cybercrime
+ casestudy.pdf
+ prevention-checklist.pdf
+
+README.md
 
 ##  Tasks Description
 
